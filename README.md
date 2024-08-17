@@ -1,1 +1,1 @@
-Reading List Application
+Bazar Application
